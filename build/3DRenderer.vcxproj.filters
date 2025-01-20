@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Mehme\OneDrive\Masaüstü\code\C++\3DRenderer\3DRenderer\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Mehme\OneDrive\Masaüstü\code\C++\3DRenderer\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3C49FE0B-7FBE-3ABB-86E0-D59C079359CE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

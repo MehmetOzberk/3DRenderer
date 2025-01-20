@@ -1,0 +1,3 @@
+C:/Users/Mehme/OneDrive/Masaüstü/code/C++/3DRenderer/build/CMakeFiles/3DRenderer.dir
+C:/Users/Mehme/OneDrive/Masaüstü/code/C++/3DRenderer/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Mehme/OneDrive/Masaüstü/code/C++/3DRenderer/build/CMakeFiles/ZERO_CHECK.dir
