@@ -24,7 +24,7 @@ events:
       The output was:
       0
       .NET Framework için MSBuild sürüm 17.12.12+1cce77968
-      Oluşturma başlatıldı: 21.01.2025 16:09:22.
+      Oluşturma başlatıldı: 25.01.2025 19:47:54.
       
       1 düğümünde "C:\\Users\\Mehme\\OneDrive\\Masaüstü\\code\\C++\\3DRenderer\\build\\CMakeFiles\\3.31.4\\CompilerIdC\\CompilerIdC.vcxproj" projesi (varsayılan hedefler).
       PrepareForBuild:
@@ -53,7 +53,7 @@ events:
           0 Uyarı
           0 Hata
       
-      Geçen Süre 00:00:00.54
+      Geçen Süre 00:00:00.50
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -79,7 +79,7 @@ events:
       The output was:
       0
       .NET Framework için MSBuild sürüm 17.12.12+1cce77968
-      Oluşturma başlatıldı: 21.01.2025 16:09:23.
+      Oluşturma başlatıldı: 25.01.2025 19:47:55.
       
       1 düğümünde "C:\\Users\\Mehme\\OneDrive\\Masaüstü\\code\\C++\\3DRenderer\\build\\CMakeFiles\\3.31.4\\CompilerIdCXX\\CompilerIdCXX.vcxproj" projesi (varsayılan hedefler).
       PrepareForBuild:
@@ -108,7 +108,7 @@ events:
           0 Uyarı
           0 Hata
       
-      Geçen Süre 00:00:00.53
+      Geçen Süre 00:00:00.49
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -127,8 +127,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/Mehme/OneDrive/Masa\u00fcst\u00fc/code/C++/3DRenderer/build/CMakeFiles/CMakeScratch/TryCompile-l8n17e"
-      binary: "C:/Users/Mehme/OneDrive/Masa\u00fcst\u00fc/code/C++/3DRenderer/build/CMakeFiles/CMakeScratch/TryCompile-l8n17e"
+      source: "C:/Users/Mehme/OneDrive/Masa\u00fcst\u00fc/code/C++/3DRenderer/build/CMakeFiles/CMakeScratch/TryCompile-4zhktz"
+      binary: "C:/Users/Mehme/OneDrive/Masa\u00fcst\u00fc/code/C++/3DRenderer/build/CMakeFiles/CMakeScratch/TryCompile-4zhktz"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -137,40 +137,40 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Mehme/OneDrive/Masaüstü/code/C++/3DRenderer/build/CMakeFiles/CMakeScratch/TryCompile-l8n17e'
+        Change Dir: 'C:/Users/Mehme/OneDrive/Masaüstü/code/C++/3DRenderer/build/CMakeFiles/CMakeScratch/TryCompile-4zhktz'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_14151.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_2db85.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         .NET Framework için MSBuild sürüm 17.12.12+1cce77968
-        Oluşturma başlatıldı: 21.01.2025 16:09:24.
+        Oluşturma başlatıldı: 25.01.2025 19:47:55.
         
-        1 düğümünde "C:\\Users\\Mehme\\OneDrive\\Masaüstü\\code\\C++\\3DRenderer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l8n17e\\cmTC_14151.vcxproj" projesi (varsayılan hedefler).
+        1 düğümünde "C:\\Users\\Mehme\\OneDrive\\Masaüstü\\code\\C++\\3DRenderer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4zhktz\\cmTC_2db85.vcxproj" projesi (varsayılan hedefler).
         PrepareForBuild:
-          "cmTC_14151.dir\\Debug\\" dizini oluşturuluyor.
+          "cmTC_2db85.dir\\Debug\\" dizini oluşturuluyor.
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
-          "C:\\Users\\Mehme\\OneDrive\\Masaüstü\\code\\C++\\3DRenderer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l8n17e\\Debug\\" dizini oluşturuluyor.
-          "cmTC_14151.dir\\Debug\\cmTC_14151.tlog\\" dizini oluşturuluyor.
+          "C:\\Users\\Mehme\\OneDrive\\Masaüstü\\code\\C++\\3DRenderer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4zhktz\\Debug\\" dizini oluşturuluyor.
+          "cmTC_2db85.dir\\Debug\\cmTC_2db85.tlog\\" dizini oluşturuluyor.
         InitializeBuildStatus:
-          "AlwaysCreate" belirtildiği için "cmTC_14151.dir\\Debug\\cmTC_14151.tlog\\unsuccessfulbuild" oluşturuluyor.
-          "cmTC_14151.dir\\Debug\\cmTC_14151.tlog\\unsuccessfulbuild" öğesine erişiliyor.
+          "AlwaysCreate" belirtildiği için "cmTC_2db85.dir\\Debug\\cmTC_2db85.tlog\\unsuccessfulbuild" oluşturuluyor.
+          "cmTC_2db85.dir\\Debug\\cmTC_2db85.tlog\\unsuccessfulbuild" öğesine erişiliyor.
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_14151.dir\\Debug\\\\" /Fd"cmTC_14151.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2db85.dir\\Debug\\\\" /Fd"cmTC_2db85.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.42.34435 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_14151.dir\\Debug\\\\" /Fd"cmTC_14151.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2db85.dir\\Debug\\\\" /Fd"cmTC_2db85.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Mehme\\OneDrive\\Masaüstü\\code\\C++\\3DRenderer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l8n17e\\Debug\\cmTC_14151.exe" /INCREMENTAL /ILK:"cmTC_14151.dir\\Debug\\cmTC_14151.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Mehme/OneDrive/Masaüstü/code/C++/3DRenderer/build/CMakeFiles/CMakeScratch/TryCompile-l8n17e/Debug/cmTC_14151.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Mehme/OneDrive/Masaüstü/code/C++/3DRenderer/build/CMakeFiles/CMakeScratch/TryCompile-l8n17e/Debug/cmTC_14151.lib" /MACHINE:X64  /machine:x64 cmTC_14151.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_14151.vcxproj -> C:\\Users\\Mehme\\OneDrive\\Masaüstü\\code\\C++\\3DRenderer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l8n17e\\Debug\\cmTC_14151.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Mehme\\OneDrive\\Masaüstü\\code\\C++\\3DRenderer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4zhktz\\Debug\\cmTC_2db85.exe" /INCREMENTAL /ILK:"cmTC_2db85.dir\\Debug\\cmTC_2db85.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Mehme/OneDrive/Masaüstü/code/C++/3DRenderer/build/CMakeFiles/CMakeScratch/TryCompile-4zhktz/Debug/cmTC_2db85.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Mehme/OneDrive/Masaüstü/code/C++/3DRenderer/build/CMakeFiles/CMakeScratch/TryCompile-4zhktz/Debug/cmTC_2db85.lib" /MACHINE:X64  /machine:x64 cmTC_2db85.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_2db85.vcxproj -> C:\\Users\\Mehme\\OneDrive\\Masaüstü\\code\\C++\\3DRenderer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4zhktz\\Debug\\cmTC_2db85.exe
         FinalizeBuildStatus:
-          "cmTC_14151.dir\\Debug\\cmTC_14151.tlog\\unsuccessfulbuild" dosyası siliniyor.
-          "cmTC_14151.dir\\Debug\\cmTC_14151.tlog\\cmTC_14151.lastbuildstate" öğesine erişiliyor.
-        "C:\\Users\\Mehme\\OneDrive\\Masaüstü\\code\\C++\\3DRenderer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l8n17e\\cmTC_14151.vcxproj" Projesini Oluşturma İşlemi Tamamlandı (varsayılan hedefler).
+          "cmTC_2db85.dir\\Debug\\cmTC_2db85.tlog\\unsuccessfulbuild" dosyası siliniyor.
+          "cmTC_2db85.dir\\Debug\\cmTC_2db85.tlog\\cmTC_2db85.lastbuildstate" öğesine erişiliyor.
+        "C:\\Users\\Mehme\\OneDrive\\Masaüstü\\code\\C++\\3DRenderer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4zhktz\\cmTC_2db85.vcxproj" Projesini Oluşturma İşlemi Tamamlandı (varsayılan hedefler).
         
         Oluşturma başarılı oldu.
             0 Uyarı
             0 Hata
         
-        Geçen Süre 00:00:00.49
+        Geçen Süre 00:00:00.48
         
       exitCode: 0
   -
@@ -210,8 +210,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/Mehme/OneDrive/Masa\u00fcst\u00fc/code/C++/3DRenderer/build/CMakeFiles/CMakeScratch/TryCompile-uehl5h"
-      binary: "C:/Users/Mehme/OneDrive/Masa\u00fcst\u00fc/code/C++/3DRenderer/build/CMakeFiles/CMakeScratch/TryCompile-uehl5h"
+      source: "C:/Users/Mehme/OneDrive/Masa\u00fcst\u00fc/code/C++/3DRenderer/build/CMakeFiles/CMakeScratch/TryCompile-xfu2na"
+      binary: "C:/Users/Mehme/OneDrive/Masa\u00fcst\u00fc/code/C++/3DRenderer/build/CMakeFiles/CMakeScratch/TryCompile-xfu2na"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -221,40 +221,40 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Mehme/OneDrive/Masaüstü/code/C++/3DRenderer/build/CMakeFiles/CMakeScratch/TryCompile-uehl5h'
+        Change Dir: 'C:/Users/Mehme/OneDrive/Masaüstü/code/C++/3DRenderer/build/CMakeFiles/CMakeScratch/TryCompile-xfu2na'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_5580d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_ab331.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         .NET Framework için MSBuild sürüm 17.12.12+1cce77968
-        Oluşturma başlatıldı: 21.01.2025 16:09:25.
+        Oluşturma başlatıldı: 25.01.2025 19:47:56.
         
-        1 düğümünde "C:\\Users\\Mehme\\OneDrive\\Masaüstü\\code\\C++\\3DRenderer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-uehl5h\\cmTC_5580d.vcxproj" projesi (varsayılan hedefler).
+        1 düğümünde "C:\\Users\\Mehme\\OneDrive\\Masaüstü\\code\\C++\\3DRenderer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-xfu2na\\cmTC_ab331.vcxproj" projesi (varsayılan hedefler).
         PrepareForBuild:
-          "cmTC_5580d.dir\\Debug\\" dizini oluşturuluyor.
+          "cmTC_ab331.dir\\Debug\\" dizini oluşturuluyor.
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
-          "C:\\Users\\Mehme\\OneDrive\\Masaüstü\\code\\C++\\3DRenderer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-uehl5h\\Debug\\" dizini oluşturuluyor.
-          "cmTC_5580d.dir\\Debug\\cmTC_5580d.tlog\\" dizini oluşturuluyor.
+          "C:\\Users\\Mehme\\OneDrive\\Masaüstü\\code\\C++\\3DRenderer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-xfu2na\\Debug\\" dizini oluşturuluyor.
+          "cmTC_ab331.dir\\Debug\\cmTC_ab331.tlog\\" dizini oluşturuluyor.
         InitializeBuildStatus:
-          "AlwaysCreate" belirtildiği için "cmTC_5580d.dir\\Debug\\cmTC_5580d.tlog\\unsuccessfulbuild" oluşturuluyor.
-          "cmTC_5580d.dir\\Debug\\cmTC_5580d.tlog\\unsuccessfulbuild" öğesine erişiliyor.
+          "AlwaysCreate" belirtildiği için "cmTC_ab331.dir\\Debug\\cmTC_ab331.tlog\\unsuccessfulbuild" oluşturuluyor.
+          "cmTC_ab331.dir\\Debug\\cmTC_ab331.tlog\\unsuccessfulbuild" öğesine erişiliyor.
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_5580d.dir\\Debug\\\\" /Fd"cmTC_5580d.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_ab331.dir\\Debug\\\\" /Fd"cmTC_ab331.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.42.34435 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_5580d.dir\\Debug\\\\" /Fd"cmTC_5580d.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_ab331.dir\\Debug\\\\" /Fd"cmTC_ab331.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Mehme\\OneDrive\\Masaüstü\\code\\C++\\3DRenderer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-uehl5h\\Debug\\cmTC_5580d.exe" /INCREMENTAL /ILK:"cmTC_5580d.dir\\Debug\\cmTC_5580d.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Mehme/OneDrive/Masaüstü/code/C++/3DRenderer/build/CMakeFiles/CMakeScratch/TryCompile-uehl5h/Debug/cmTC_5580d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Mehme/OneDrive/Masaüstü/code/C++/3DRenderer/build/CMakeFiles/CMakeScratch/TryCompile-uehl5h/Debug/cmTC_5580d.lib" /MACHINE:X64  /machine:x64 cmTC_5580d.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_5580d.vcxproj -> C:\\Users\\Mehme\\OneDrive\\Masaüstü\\code\\C++\\3DRenderer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-uehl5h\\Debug\\cmTC_5580d.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Mehme\\OneDrive\\Masaüstü\\code\\C++\\3DRenderer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-xfu2na\\Debug\\cmTC_ab331.exe" /INCREMENTAL /ILK:"cmTC_ab331.dir\\Debug\\cmTC_ab331.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Mehme/OneDrive/Masaüstü/code/C++/3DRenderer/build/CMakeFiles/CMakeScratch/TryCompile-xfu2na/Debug/cmTC_ab331.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Mehme/OneDrive/Masaüstü/code/C++/3DRenderer/build/CMakeFiles/CMakeScratch/TryCompile-xfu2na/Debug/cmTC_ab331.lib" /MACHINE:X64  /machine:x64 cmTC_ab331.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_ab331.vcxproj -> C:\\Users\\Mehme\\OneDrive\\Masaüstü\\code\\C++\\3DRenderer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-xfu2na\\Debug\\cmTC_ab331.exe
         FinalizeBuildStatus:
-          "cmTC_5580d.dir\\Debug\\cmTC_5580d.tlog\\unsuccessfulbuild" dosyası siliniyor.
-          "cmTC_5580d.dir\\Debug\\cmTC_5580d.tlog\\cmTC_5580d.lastbuildstate" öğesine erişiliyor.
-        "C:\\Users\\Mehme\\OneDrive\\Masaüstü\\code\\C++\\3DRenderer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-uehl5h\\cmTC_5580d.vcxproj" Projesini Oluşturma İşlemi Tamamlandı (varsayılan hedefler).
+          "cmTC_ab331.dir\\Debug\\cmTC_ab331.tlog\\unsuccessfulbuild" dosyası siliniyor.
+          "cmTC_ab331.dir\\Debug\\cmTC_ab331.tlog\\cmTC_ab331.lastbuildstate" öğesine erişiliyor.
+        "C:\\Users\\Mehme\\OneDrive\\Masaüstü\\code\\C++\\3DRenderer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-xfu2na\\cmTC_ab331.vcxproj" Projesini Oluşturma İşlemi Tamamlandı (varsayılan hedefler).
         
         Oluşturma başarılı oldu.
             0 Uyarı
             0 Hata
         
-        Geçen Süre 00:00:00.50
+        Geçen Süre 00:00:00.49
         
       exitCode: 0
   -
