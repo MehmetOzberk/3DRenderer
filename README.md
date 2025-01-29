@@ -9,11 +9,12 @@ The goal is to expand this project into a full-featured game engine.
 ### Completed
 - Ray tracing fundamentals
   - Rays, spheres, and camera setup
+  - Lambertian (diffuse), metal, and dielectric (glass) materials
 - Image generation in PPM format
 - Support for CMake build system
 
 ### Planned
-- Lambertian (diffuse), metal, and dielectric (glass) materials
+
 - Acceleration structures (BVH)
 - Real-time ray tracing (GPU support)
 - Scene description and import/export (e.g., OBJ or GLTF)
