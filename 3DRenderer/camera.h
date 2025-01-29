@@ -21,7 +21,7 @@ class camera {
 						ray r = get_ray(i, j);
 						pixel_color += ray_color(r, world);
 					}
-					write_color(std::cout, pixel_color);
+					write_color(std::cout, pixel_color*pixel_samples_scale);
 				}
 			}
 			std::clog << "\rDONE.			\n";
@@ -58,7 +58,7 @@ class camera {
 		}
 		ray get_ray(int i, int j) const {
 			auto offset = sample_square();
-			auto pixel_sample = pixel00_loc + ((i * offset.x()) * pixel_delta_u) + ((j * offset.y()) * pixel_delta_v);
+			auto pixel_sample = pixel00_loc + ((i + offset.x()) * pixel_delta_u) + ((j + offset.y()) * pixel_delta_v);
 
 			auto ray_origin = center;
 			auto ray_direction = pixel_sample - ray_origin;
